@@ -1,0 +1,3 @@
+split,negative,positive,positive_share
+Training,59000,1000,0.016666666666666666
+Test,15625,375,0.0234375
